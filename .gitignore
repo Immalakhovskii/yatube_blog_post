@@ -147,3 +147,6 @@ dmypy.json
 
 # VS Code settings
 .vscode/
+
+# Static files
+static/
