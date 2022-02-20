@@ -28,6 +28,7 @@ INSTALLED_APPS = [
     "users",
     "core",
     "posts",
+    "about",
 ]
 
 MIDDLEWARE = [
