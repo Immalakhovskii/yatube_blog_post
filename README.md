@@ -1,2 +1,2 @@
-# Blogging platform Yatube (Groups) #
-*This repository shows one of a major steps during creation blogging platform Yatube; this version has functionality to assign posts to groups (also there are a lot of small upgrades compared to the previous version). Check out final result and read detailed description of the project here: https://github.com/Immalakhovskii/yatube_blog_final*
+# Blogging platform Yatube (POST) #
+*This repository shows one of a major steps during creation blogging platform Yatube; this version has functionality to create (POST) posts via site (also there are a lot of small upgrades compared to the previous version). Check out final result and read detailed description of the project here: https://github.com/Immalakhovskii/yatube_blog_final*
